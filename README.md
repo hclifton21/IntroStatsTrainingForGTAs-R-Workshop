@@ -1,5 +1,5 @@
 # STAT-216-WORKSHOP
-Authors: Harley Clifton & Eliot Luicci
+Authors: Harley Clifton and Eliot Luicci
 
 ## Overview
 This workshop and materials were created to train incoming Graduate Teaching Assistant for STAT 216: Introductory Statisitics at Montana State University.
